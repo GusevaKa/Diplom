@@ -25,11 +25,12 @@
 Количество тест-кейсов = 48, успешных/неуспешных 56.25%/43.75% (21 упавший тест-кейс)
 
 ## Cводный отчет из фреймворка Allure:
-![photo_5393290365047528142_w.jpg](..%2F..%2FDownloads%2Fphoto_5393290365047528142_w.jpg)
+![image](https://github.com/GusevaKa/Diplom/assets/126064667/d372e573-5aad-47c3-ba38-393abeecf734)
 ## Отчет CreditTests:
-![photo_5393290365047528144_w.jpg](..%2F..%2FDownloads%2Fphoto_5393290365047528144_w.jpg)
+![image](https://github.com/GusevaKa/Diplom/assets/126064667/a1b48375-eb52-497a-8d33-27621e7c8580)
 ## Отчет OrderCardTests:
-![photo_5393290365047528145_w.jpg](..%2F..%2FDownloads%2Fphoto_5393290365047528145_w.jpg)
+![image](https://github.com/GusevaKa/Diplom/assets/126064667/0fd40643-29a1-4802-b001-c17f6c8b801a)
+
 ## Общие рекомендации:
 
 1- Исправить баги описанные в  [issues] https://github.com/GusevaKa/Diplom/issues;
