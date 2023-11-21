@@ -19,13 +19,10 @@ public class SQLHelper {
         var cleanPayment = "DELETE FROM payment_entity;";
         var runner = new QueryRunner();
         var conn = DriverManager.getConnection(url, user, password);
-        {
-            runner.update(conn, cleanCreditRequest);
-            runner.update(conn, cleanOrder);
-            runner.update(conn, cleanPayment);
-
+        runner.update(conn, cleanCreditRequest);
+        runner.update(conn, cleanOrder);
+        runner.update(conn, cleanPayment);
         }
-    }
 
     @SneakyThrows
     public static String getPaymentStatus() {
